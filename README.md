@@ -2,4 +2,7 @@
 Using Bootstrap create wordpress theme
 - dynamic menu with submenu
 - Logo manage by customize
-- Archive, Search, Tag page with pagination setup
+- Custom post type
+- Sidebar
+- Category, Search and Tag page setup with pagination
+- template setup
