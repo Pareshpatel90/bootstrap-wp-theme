@@ -1,9 +1,9 @@
 # bootstrap-wp-theme
-Using Bootstrap create basic wordpress theme. Using this template we can convert boostarp html template to wordpress 
-- dynamic menu with submenu
-- Logo manage by customize
-- Custom post type
-- Sidebar
-- Category, Search and Tag page setup with pagination
-- template setup
-- custom breadcrumb setup
+Creating a basic WordPress theme using Bootstrap involves several steps. Here's a step-by-step guide to help you create a WordPress theme that incorporates Bootstrap and includes the features mentioned below:
+- Enqueue Bootstrap CSS and JS
+- Dynamic Menu with Submenu
+- Manage Logo with Customizer
+- Custom Post Type
+- Setup Sidebar
+- Category, Search, and Tag templates Setup with Pagination
+- Custom Breadcrumb
