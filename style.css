@@ -1,0 +1,38 @@
+/***
+Theme Name: My theme
+Author: Paresh Patel
+Author URL: #
+License: GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, responsive-layout, accessibility-ready
+Text Domain:  My Theme
+***/
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200;9..40,300;9..40,400;9..40,600;9..40,700&family=Nunito+Sans:opsz,wght@6..12,200;6..12,300;6..12,400;6..12,500;6..12,700&display=swap');
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.hdfont, #navbarSupportedContent a, #navbarSupportedContent span, h2.wp-block-heading{
+    font-family: 'DM Sans', sans-serif;
+}
+img.header-logo {
+    max-height: 70px;
+}
+nav.navigation.pagination {
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+.nav-links a, .nav-links span {
+    border: 1px solid gainsboro;
+    padding: 2px 10px;
+    margin: 0px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.nav-links span.page-numbers.current {
+    border-color: #198754;
+}
+.wp-block-categories {
+    list-style: none;
+    padding: 0;
+}
