@@ -1,5 +1,5 @@
 # bootstrap-wp-theme
-Using Bootstrap create wordpress theme
+Using Bootstrap create basic wordpress theme
 - dynamic menu with submenu
 - Logo manage by customize
 - Custom post type
